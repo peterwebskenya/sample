@@ -25,8 +25,8 @@ print(friends[0])
 print(friends[2])
 print(friends[2-5])
 
-git init
-git config user.email "alphoncepeter2002@gmail.com"
-git add .
-git commit -m "...."
-replace with yours -
+# git init
+# gitadd .
+# git commit -m "...." config user.email "alphoncepeter2002@gmail.com"
+# git
+# replace with yours -

@@ -9,7 +9,7 @@
 #print(friends[]) displays only one character or
 #print(friends[-1])
 
-friends = ["bob","marie","sue","gill","ann","kim"]
+friends = ["bob","marie","sue","gill","ann","kim","jane","rob"]
 friends.append("peter")
 friends.append("kilonzo")
 friends.remove("sue")
