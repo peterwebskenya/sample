@@ -5,4 +5,3 @@ for name, age in friends_ages.items():
 
 
 
-
