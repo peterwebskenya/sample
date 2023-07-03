@@ -3,6 +3,6 @@ def calculate_bmi():
     height = float(input("enter height"))
 
     bmi = weight / (height * height)
-    print(f"your bmi is{bmi}kg/m2")
+    print(f"your bmi  {bmi}kg/m2")
 calculate_bmi()
 
