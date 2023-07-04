@@ -1,4 +1,4 @@
-from House import House
+from house import House
 
 owner1 = House("kikuyu", "mansion", "Kim", "4m")
 owner2 = House("kipro center", "mansion", "Abel", "4m")
