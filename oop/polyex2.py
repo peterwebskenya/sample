@@ -3,14 +3,14 @@ class car:
         self.make = make
         self.model = model
 
-        def move(self):
+    def move(self):
             print("driving around")
 
 class plane:
     def __init__(self, make, model):
         self.make = make
         self.model = model
-        def move(self):
+    def move(self):
             print("flying around")
 
 class motorbike:
